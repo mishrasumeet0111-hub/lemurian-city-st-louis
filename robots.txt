@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://st-louis.lemurianstudios.com/sitemap.xml
